@@ -1,7 +1,9 @@
 # CV — Trần Hồ Hải Dương
 
-- **Xem CV:** https://doria1411.github.io/tran-ho-hai-duong/
-- **Tải PDF:** https://doria1411.github.io/tran-ho-hai-duong/assets/CV-Tran-Ho-Hai-Duong.pdf
+- **CV Chuyên viên Thẩm định giá (nộp ngân hàng):** https://doria1411.github.io/tran-ho-hai-duong/tham-dinh-gia/
+  — PDF: https://doria1411.github.io/tran-ho-hai-duong/tham-dinh-gia/assets/CV-Tran-Ho-Hai-Duong-Tham-dinh-gia.pdf
+- **CV Trợ lý Social · Content · Chăm sóc cộng đồng:** https://doria1411.github.io/tran-ho-hai-duong/
+  — PDF: https://doria1411.github.io/tran-ho-hai-duong/assets/CV-Tran-Ho-Hai-Duong.pdf
 
 Trang CV một trang, ứng tuyển **Trợ lý Social · Content · Chăm sóc cộng đồng**.
 Chỉ dùng HTML/CSS/JS thuần, không cần cài đặt hay build gì.
